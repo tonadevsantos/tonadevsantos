@@ -19,9 +19,9 @@ Driven and self-taught professional with over six years of experience in web dev
 - **Technologies/Cloud**: Apache, NGINX, Heroku, Vercel, Netlify, AWS Lambda
 
 ### Projects
-- [Cardiocent (08/2023 - 10/2023)](cardiocent.mx)
-- [Recicla CV (01/2023 - 04/2023)](reciclacv.com)
-- [Mentor (04/2021 - 05/2023)](ruidapp.vercel.app)
+- [Cardiocent (08/2023 - 10/2023)](https://cardiocent.mx)
+- [tona.dev (03/2023)][https://tona.dev]
+- [Recicla CV (01/2023 - 04/2023)](https://reciclacv.com)
 - [Nectar Merida (2020)](https://nectarmerida.com.mx/)
 
 ### Contact
