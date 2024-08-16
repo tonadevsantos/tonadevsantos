@@ -20,9 +20,10 @@ Driven and self-taught professional with over six years of experience in web dev
 
 ### Projects
 - [Cardiocent (08/2023 - 10/2023)](https://cardiocent.mx)
-- [tona.dev (03/2023)][https://tona.dev]
+- [tona.dev (03/2023)](https://tona.dev)
 - [Recicla CV (01/2023 - 04/2023)](https://reciclacv.com)
 - [Nectar Merida (2020)](https://nectarmerida.com.mx/)
+- [Hidroval.com.mx](https://hidroval.com.mx)
 
 ### Contact
 - LinkedIn: [tonadev](https://linkedin.com/in/tonadev)
